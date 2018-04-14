@@ -1,3 +1,31 @@
 body {
-	margin: 0px;
+	margin: 0px 50px;
+
+}
+
+.grid {
+	background-color: #F5F;
+	display: inline-block;
+	border-radius: 18px;
+}
+
+.grid-hover {
+	background-color: #5F5;
+	display: inline-block;
+	border-radius: 18px;
+}
+
+.container {
+	width: 500px;
+	height: 500px;
+	padding-top: 50px;
+	margin: 0 auto;
+}
+
+.sketch-pad {
+
+}
+
+.row {
+
 }
